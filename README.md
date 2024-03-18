@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Developing Filcronet as a leading teconological partner for industries**
 
-- 🌱 I’m currently learning **Team Developmente, Leadership, New Technologies**
+- 🌱 I’m currently learning **Team Development, Leadership, New Technologies**
 
 - 👨‍💻 All of my projects are available at [https://filcronet.it](https://filcronet.it)
 
